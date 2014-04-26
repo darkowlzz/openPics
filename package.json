@@ -1,9 +1,9 @@
 {
   "name": "openpics",
   "title": "openPics",
-  "id": "jid1-SWKXJKBMEzEEvA",
-  "description": "a basic add-on",
-  "author": "",
+  "id": "openPics@darkowlzz",
+  "description": "An add-on to open multiple pictures in browser",
+  "author": "Sunny (darkowlzz) <indiasuny000@gmail.com>",
   "license": "MPL 2.0",
   "version": "0.1"
 }
